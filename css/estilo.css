@@ -1,0 +1,25 @@
+/*comentario*/
+header{  
+     background-color:#e2dcdc;
+     color: rgb(226, 52, 148);
+     text-align: center;
+     padding: 20px;
+
+}    
+section h2{ background-color: rgb(204, 103, 103);
+     padding: 10 px; 
+     
+}
+
+footer{
+    background-color: #c9b5b5;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+main{
+    padding: 20px;
+
+}   
